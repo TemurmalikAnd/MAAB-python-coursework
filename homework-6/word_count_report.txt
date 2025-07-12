@@ -1,0 +1,8 @@
+Word Count Report
+Total words: 364
+Top 5 words:
+the - 33
+and - 21
+of - 15
+printing - 9
+to - 9
