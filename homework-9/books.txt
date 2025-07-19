@@ -1,0 +1,21 @@
+1984 | George Orwell | Not Available
+Crime and Punishment | Fyodor Dostoevsky | Not Available
+Jane Eyre | Charlotte Brontë | Not Available
+The Great Gatsby | F. Scott Fitzgerald | Not Available
+Pride and Prejudice | Jane Austen | Not Available
+Wuthering Heights | Emily Brontë | Not Available
+Moby-Dick | Herman Melville | Not Available
+The Odyssey | Homer | Not Available
+War and Peace | Leo Tolstoy | Not Available
+The Brothers Karamazov | Fyodor Dostoevsky | Not Available
+Anna Karenina | Leo Tolstoy | Not Available
+Les Misérables | Victor Hugo | Not Available
+The Count of Monte Cristo | Alexandre Dumas | Not Available
+Don Quixote | Miguel de Cervantes | Not Available
+The Divine Comedy | Dante Alighieri | Available
+A Tale of Two Cities | Charles Dickens | Not Available
+Frankenstein | Mary Shelley | Available
+Dracula | Bram Stoker | Not Available
+The Iliad | Homer | Not Available
+Madame Bovary | Gustave Flaubert | Not Available
+The Art of not giving a Fuck | Mark Manson | Available
